@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Great+Vibes&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lobster&family=Luckiest+Guy&family=Mr+Dafoe&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Playwrite+DE+VA+Guides&family=Satisfy&family=Spicy+Rice&display=swap');
+
+
+.head{
+    width:100%;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-image: linear-gradient(to left,rgb(246, 121, 246),rgb(66, 66, 255));
+    font-size: 30px;
+    font-weight: bold;
+    flex-shrink: 0;
+}
+
+.lobster-regular {
+    font-family: "Lobster", serif;
+    font-weight:bold;
+    font-style: normal;
+  }
